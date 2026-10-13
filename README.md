@@ -10,4 +10,4 @@
 
 [Online Example 5] : [View Online Example](https://dakhama-mehdi.github.io/EasyHtml/Examples/ModernHTML_Locksmith2.html)
 
-[Online Example 6] : [View Online Example](https://dakhama-mehdi.github.io/EasyHtml/Examples/HardenSysvol_Report4.html)
+[Online Example 6] : [View Online Example](https://dakhama-mehdi.github.io/EasyHtml/Examples/HardenSysvol_Report.html)
